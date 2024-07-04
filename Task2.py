@@ -1,7 +1,7 @@
 Python 3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> import pandas as pd
->>> data = pd.read_csv('C:\\Users\\Suresh\\Downloads\\01.Data Cleaning and Preprocessing.csv')
+>>> data = pd.read_csv('C:\\Users\\Samar\\Downloads\\01.Data Cleaning and Preprocessing.csv')
 >>> type(data)
 <class 'pandas.core.frame.DataFrame'>
 >>> data.info
